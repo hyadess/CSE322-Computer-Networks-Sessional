@@ -9,7 +9,7 @@
 
 
 
-** for ns3 offline 2, you can observe the sh file to find out the directory tree of the output graphs
+** for ns3 offline 2, you can observe the sh file to find out the directory tree of the output graphs . the adaptive reno files should be placed in correct place. just google it.
 
 
 
